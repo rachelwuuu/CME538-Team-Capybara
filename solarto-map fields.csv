@@ -1,0 +1,17 @@
+field,name
+_id1,_id
+objecti2,objectid
+structu3,structureid
+roofsiz4,roofsize
+rooftop5,rooftop_sqft
+roof_si6,roof_size800k
+annual_7,annual_electricity_generation_k
+system_8,system_size
+system_9,system_cost
+first_y10,first_year_bill_savings
+f_25_ye11,f_25_year_bill_savings
+payback12,payback_period
+annual_13,annual_ghg_reduction_kg
+total_g14,total_ghg_reduction_kg
+trees_g15,trees_grown_for_10_years
+cars_of16,cars_off_the_road
