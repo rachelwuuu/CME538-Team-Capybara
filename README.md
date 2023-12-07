@@ -8,6 +8,6 @@ Please refer to our medium article: https://medium.com/@ruoxuanwu200102/analysis
 - Step 4: To run the model file, run the model.ipynb file. 
 
 - Note: These following files are too large to upload onto github: 
-  - Property Boundaries Construction: https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/solarto/resource/9b111e53-5551-471d-998d-6d610e311e36/download/solarto-map.geojson
+  - Property Boundaries Construction: https://borealisdata.ca/file.xhtml?fileId=330146&version=1.1
   - solarto-map (needs to be shape file): https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/solarto/resource/9b111e53-5551-471d-998d-6d610e311e36/download/solarto-map.geojson
   - ontario postal code data files are too large, please download them here: https://mdl.library.utoronto.ca/collections/geospatial-data/platinum-postal-code-suite
