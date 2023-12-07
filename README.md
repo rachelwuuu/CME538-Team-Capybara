@@ -12,4 +12,4 @@ Please refer to our medium article: https://medium.com/@ruoxuanwu200102/analysis
   Property_Boundaries_Construction_Date.dbf
   Property_Boundaries_Construction_Date.shp
   - solarto-map: https://ckan0.cf.opendata.inter.prod-toronto.ca/dataset/solarto/resource/9b111e53-5551-471d-998d-6d610e311e36/download/solarto-map.geojson
-  ontario postal code data files are too large, please download them here: https://mdl.library.utoronto.ca/collections/geospatial-data/platinum-postal-code-suite
+  - ontario postal code data files are too large, please download them here: https://mdl.library.utoronto.ca/collections/geospatial-data/platinum-postal-code-suite
